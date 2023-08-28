@@ -30,7 +30,8 @@ for use this birck you need to:
 
 ❗ Note: is better to inizialize your project repository only inside the generate template foulder
 
-- [Official Mason Documentation][2]
+
+[Official Mason Documentation][2]
 
 [1]: https://github.com/felangel/mason
 [2]: https://docs.brickhub.dev
