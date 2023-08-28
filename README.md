@@ -18,7 +18,6 @@ for use this birck you need to:
 - in your poject foulder add the flutter_template_gellify brick in the mason.yaml:
     ```yaml
       bricks:
-        very_good_core: ^0.3.0
         flutter_template_gellify:
           path: path/to/flutter_template_brick
     ```
